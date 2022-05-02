@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lorissa Cordeiro da Graça
+### Olá! Eu sou a Larissa Cordeiro da Graça
 
 - 🔭 Hoje sou uma iniciante em programação!
 - 🌱 Estudando: HTML/CSS/JavaScript/PHP
